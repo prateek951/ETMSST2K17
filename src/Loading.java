@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Parteek
+ * @author Prateek
  */
 import java.sql.*;
 import javax.swing.JOptionPane;
