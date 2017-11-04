@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Parteek
+ * @author Prateek
  */
 import com.itextpdf.text.BaseColor;
 import com.itextpdf.text.FontFactory;
